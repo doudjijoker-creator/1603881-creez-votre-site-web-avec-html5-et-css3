@@ -1,1 +1,3 @@
-Base de code pour le cours HTML CSS
+<DOCTYP html>
+<HTML lang"fr">
+<title>Robie lens Photographie</title>
